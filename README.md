@@ -51,4 +51,6 @@ Available translations are:
 8. NASB
 
 ## Image License
+<img src="images/Bible.jpg" width="300" height="300">
+
 "Bible" by lokarta is licensed with CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/
