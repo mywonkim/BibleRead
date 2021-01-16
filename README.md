@@ -6,7 +6,7 @@ BibleRead is a bible reading application that allows people to read bible withou
 1. Git clone:
     ```bash
     $ git clone https://github.com/mywonkim/BibleRead.git
-    $ cd StockMarketPrice
+    $ cd BibleRead
     ```
 2. Install required Python packages:
     ```bash
