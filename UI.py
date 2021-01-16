@@ -33,7 +33,7 @@ class App(QWidget):
         self.imgLabel = QLabel(self)
 
         # loading image
-        self.pixmap = QPixmap('Bible.jpg')
+        self.pixmap = QPixmap('images/Bible.jpg')
 
         # adding image to label
         self.imgLabel.setPixmap(self.pixmap)
