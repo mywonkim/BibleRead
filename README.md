@@ -1,8 +1,8 @@
-# BibleRead :church:
+# :church: BibleRead
 
 BibleRead is a bible reading application that allows people to read bible without spending too much time on searching for the right phrases. 
 
-## Build Instruction
+## :construction_worker: Build Instruction
 1. Git clone:
     ```bash
     $ git clone https://github.com/mywonkim/BibleRead.git
@@ -19,7 +19,7 @@ BibleRead is a bible reading application that allows people to read bible withou
 4. Run the executable.
 5. Alternatively, simply run main.py if you have an IDE.
 
-## Description
+## :page_with_curl: Description
 
 This application helps you focus more on reading, not searching. If you simply type in a translation, book, chapter, starting phrase and ending phrase, you will be able to read what you want to read in seconds.
 
@@ -27,7 +27,7 @@ Here are some screenshots of application usage:
 
 <img src="images/firstSight.JPG" width="300" height="300"><img src="images/firstLineEntered.JPG" width="300" height="300"><img src="images/secondLineEntered.JPG" width="300" height="300">
 
-## Usage
+## :clipboard: Usage
 READ THE INSTRUCTION BEFORE YOU USE THIS APPLICATION!
 
 Here is the instruction:
@@ -38,7 +38,7 @@ Here is the instruction:
 4. If you want to read only one phrase, simply enter the starting phrase only
 5. Enjoy your reading
 
-## Available Translations
+## :capital_abcd: Available Translations
 Available translations are:
 
 1. 개역개정
@@ -50,7 +50,7 @@ Available translations are:
 7. KJV
 8. NASB
 
-## Image License
+## :framed_picture: Image License
 <img src="images/Bible.jpg" width="300" height="300">
 
 "Bible" by lokarta is licensed with CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/
